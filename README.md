@@ -45,7 +45,7 @@ dibuat instance object terlebih dulu.
 
 **Pertanyaan dan soal**
 
-<img src="code2.png" width="700">
+<img src="code5.png" width="700">
 
 <img src="code6.png" width="700">
 

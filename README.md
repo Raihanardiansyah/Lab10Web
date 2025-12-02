@@ -44,3 +44,11 @@ dibuat instance object terlebih dulu.
 <img src="web4.png" width="700">
 
 **Pertanyaan dan soal**
+
+<img src="code2.png" width="700">
+
+<img src="code6.png" width="700">
+
+<img src="code7.png" width="700">
+
+<img src="code8.png" width="700">
